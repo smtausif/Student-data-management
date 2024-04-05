@@ -1,0 +1,4 @@
+Student              id     courses
+SM Tausif           111       1                             
+Ruksar              122       2                             
+lalala              133       3                             
